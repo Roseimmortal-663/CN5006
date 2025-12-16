@@ -1,2 +1,2 @@
-# CN5600
+# CN5006
 Tutorial work
